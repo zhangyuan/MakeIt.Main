@@ -2,12 +2,18 @@
 //= require 'devices.min'
 
 h1 {
-  padding-top: 1em;
+  margin: 1em auto;
+  text-align: center;
+}
+
+h2 {
+  color: #E6772E;
   text-align: center;
 }
 
 .main {
   text-align: center;
+  margin-bottom: 2em;
 
   .marvel-device {
     margin: auto auto;
