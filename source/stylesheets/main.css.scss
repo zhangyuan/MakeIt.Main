@@ -7,8 +7,12 @@ h1 {
 }
 
 .main {
-  margin: 1em auto;
+  margin: auto 1em;
   text-align: center;
+
+  .marvel-device {
+    margin: 1em auto;
+  }
 }
 
 p.content {
