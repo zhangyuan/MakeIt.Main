@@ -1,1 +1,18 @@
 //= require 'skeleton'
+//= require 'devices.min'
+
+h1 {
+  padding-top: 1em;
+  text-align: center;
+}
+
+.main {
+  margin: 1em auto;
+  text-align: center;
+}
+
+p.content {
+  padding-top: 3em;
+  font-size: 4em;
+  color: #CCC;
+}
